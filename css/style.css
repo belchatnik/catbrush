@@ -1,0 +1,35 @@
+/* +++++++++++++++++++++++++++++++++++++++++++
+   comments
+++++++++++++++++++++++++++++++++++++++++++++*/
+
+/*
+  text-shadow: 1px 1px 0px #d8b045;
+  -webkit-box-shadow: #ffc001 0px 1px 1px;
+  -moz-box-shadow: #ffc001 0px 1px 1px;
+  box-shadow: #ffc001 0px 1px 1px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  border-radius: 10px;
+  behavior: url("/css/PIE.htc");
+*/
+@-webkit-viewport   { width: device-width; }
+@-moz-viewport      { width: device-width; }
+@-ms-viewport       { width: device-width; }
+@-o-viewport        { width: device-width; }
+@viewport           { width: device-width; }
+
+/* +++++++++++++++++++++++++++++++++++++++++++
+  default style
+++++++++++++++++++++++++++++++++++++++++++++*/
+* {
+	outline: none !important;
+	padding: 0;
+	margin: 0;
+}
+html {
+}
+body {
+	font-family: Open Sans;
+	font-size: 100%;
+}
+	
