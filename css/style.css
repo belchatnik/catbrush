@@ -36,15 +36,15 @@ body {
 	font-size: 100%;
 }
 header {
-	height: 100%;
+	height: auto;
 	width: 100%;
 }
 .main {
-	height: 100%;
+	height: auto;
 	width: 100%;
 }
 .center {
-	height: 100%;
+	height: auto;
 	width: 80%;
 	margin: 0 auto;
 	background: #5cbbf6;
