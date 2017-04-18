@@ -36,16 +36,27 @@ body {
 	font-size: 100%;
 }
 header {
+	height: 30%;
+	width: 100%;
+	border-bottom: 4px solid #fff;
+	position: relative;
+}
+p.mainname {
+	position: absolute;
+	display: block;
+	bottom: 0;
 	height: auto;
 	width: 100%;
+	text-align: center;
 }
 .main {
 	height: auto;
 	width: 100%;
 }
 .center {
-	height: auto;
+	height: 100%;
 	width: 80%;
 	margin: 0 auto;
 	background: #5cbbf6;
+	position: relative;
 }
