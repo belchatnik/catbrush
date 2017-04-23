@@ -40,6 +40,20 @@ header {
 	width: 100%;
 	border-bottom: 4px solid #fff;
 	position: relative;
+	font-family: Arial Narrow;
+	font-weight: bold;
+}
+nav {
+	padding: 1% 3%;
+}
+nav ul li {
+	display: inline-block;
+	height: auto;
+	width: 24%;
+	text-align: right;
+}
+nav ul li:first-child, nav ul li:nth-child(2) {
+	text-align: left;
 }
 p.mainname {
 	position: absolute;
